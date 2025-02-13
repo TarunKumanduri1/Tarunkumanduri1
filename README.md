@@ -38,7 +38,7 @@ Each of these repositories contain the data and code for research projects and a
 ## 📢 Let's Connect!  
 🔗 **LinkedIn**: [linkedin.com/in/tarunkumanduri](https://linkedin.com/in/tarunkumanduri)  
 📧 **Email**: [tarun.kumanduri99@gmail.com](mailto:tarun.kumanduri99@gmail.com)  
-📂 **GitHub**: [github.com/your-username](https://github.com/TarunKumanduri1)  
+📂 **GitHub**: [github.com/TarunKumanduri1](https://github.com/TarunKumanduri1)  
 
 ---
 
