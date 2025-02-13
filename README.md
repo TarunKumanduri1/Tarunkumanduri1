@@ -1,4 +1,4 @@
-# 🚀 Tarun Kumanduri | Data Scientist | Researcher | Full-Stack Developer 
+# 🚀 Tarun Kumanduri | Data Scientist | Researcher
 
 📍 Washington, D.C. | 📊 Data Analytics | 🌍 Energy, Climate & Sustainability | 💻 Dash & R Shiny 
 📧 tarun.kumanduri99@gmail.com | [LinkedIn](https://www.linkedin.com/in/tarunkumanduri)
