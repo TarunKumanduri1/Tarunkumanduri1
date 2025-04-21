@@ -2,7 +2,7 @@
 
 📍 Washington, D.C. | 📊 Data Analytics | 🌍 Energy, Climate & Sustainability | 💻 Dash & R Shiny  
 📧 tarun.kumanduri99@gmail.com | [LinkedIn](https://www.linkedin.com/in/tarunkumanduri)  
-
+[Visit my personal website](https://tarunkumanduri.netlify.app).
 ---
 
 ## 👋 About Me  
