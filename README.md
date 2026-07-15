@@ -1,72 +1,85 @@
-# 🚀 Tarun Kumanduri | Data Scientist | Researcher  
+<h1 align="center">Hi, I'm Tarun Kumanduri 👋</h1>
+<h3 align="center">Data Scientist & AI/ML Engineer</h3>
 
-📍 Washington, D.C. | 📊 Data Analytics | 🌍 Energy, Climate & Sustainability | 💻 Dash & R Shiny  
-📧 tarun.kumanduri99@gmail.com | [LinkedIn](https://www.linkedin.com/in/tarunkumanduri)  
-[Visit my personal website](https://tarunkumanduri.netlify.app).
----
-
-## 👋 About Me  
-
-Hello! 👋 I’m **Tarun Kumanduri**, a **Graduate Research Assistant** at **The George Washington University**, pursuing an **M.S. in Data Analytics**. I specialize in **big data processing, predictive modeling, and interactive dashboards** to solve **real-world problems in climate, energy, finance, and mobility**.  
-
-🔬 My research applies **machine learning, PySpark, and geospatial analytics** to uncover **insights in environmental science, energy markets, and finance**. I build **full-stack applications** for real-time data visualization and decision-making.  
-
-### **🌟 My Expertise**
-- 🌍 **Climate & Sustainability Analytics** – Built a **nitrogen flow model** for the Chesapeake Bay Region  
-- ⚡ **Energy & Grid Forecasting** – Predicted **electricity demand & price spikes** in NYISO  
-- 📊 **Big Data & Predictive Analytics** – Analyzed **NYC taxi demand** & **Fannie Mae loan risk factors**  
-- 🏗️ **Full-Stack Dashboards** – Developed **data-driven web apps** in **Python Dash & R Shiny**  
+<p align="center">
+  <a href="mailto:tarun.kumanduri99@gmail.com"><img src="https://img.shields.io/badge/Email-tarun.kumanduri99%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarun-kumanduri"><img src="https://img.shields.io/badge/LinkedIn-tarun--kumanduri-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tarunkumanduri.dev"><img src="https://img.shields.io/badge/Portfolio-tarunkumanduri.dev-000000?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📂 Featured Projects  
+## About Me
 
-🔹 **[NYISO Electricity Market Analysis (PySpark & ML)](https://github.com/TarunKumanduri1/NYISO-Electricity-Market-Analysis-Pyspark-ML)**  
-📌 **Key Insights**: Forecasted **electricity prices & demand**, detected **anomalies in grid congestion**, and built **LSTM models for load prediction** using **PySpark & TensorFlow**.  
+I'm a Data Scientist and AI/ML Engineer based in McKinney, TX, working at the intersection of applied machine learning, NLP, and data engineering. I hold an M.S. in Data Analytics from The George Washington University (GPA 3.93) and a B.Tech in Computer Science from JNTU Hyderabad.
 
-🔹 **[NYC Taxi Trip Data Analysis (ML & PySpark)](https://github.com/TarunKumanduri1/NYC-Taxi-Trip-Data-Analysis-using-Machine-Learning-and-PySpark)**  
-📌 **Key Insights**: Modeled **taxi demand patterns**, predicted **trip durations**, and performed **geospatial clustering of pickup hotspots** using **PySpark & Scikit-learn**.  
+I currently split my time across two research and engineering roles:
 
-🔹 **[SEC Filings Analysis (Neo4j & PySpark)](https://github.com/TarunKumanduri1/SEC-Filings-using-pyspark-and-neo4j)**  
-📌 **Key Insights**: Used **graph-based AI techniques** to **extract financial insights from SEC filings**, leveraging **Neo4j & PySpark**.  
+- **AI Engineer, Penn MEDIATED** (Penn Center for Media, Technology, and Democracy) — building a production LLM auditing platform (FastAPI, Celery, Redis, PostgreSQL/TimescaleDB) under Danaé Metaxa and Alex Engler.
+- **Data Scientist, FewsLab, The George Washington University** — leading NSF- and USDA-funded applied ML, NLP, and data engineering projects under PI Dr. Caitlin Grady.
 
-🔹 **[Fannie Mae Loan Risk Analysis (PySpark)](https://github.com/TarunKumanduri1/Fanniemae_loan_data_analysis_pyspark)**  
-📌 **Key Insights**: Assessed **loan default risks**, predicted **delinquencies**, and visualized **loan performance trends** using **big data processing with PySpark**.  
-
-🔹 **[Nitrogen Flow Model for Chesapeake Bay](https://github.com/TarunKumanduri1/Nitrogen-Flow-Model-for-Chesapeake-Bay-Region)**  
-📌 **Key Insights**: Developed a **data-driven model to track nitrogen loss**, aiding **sustainability planning for Chesapeake Bay restoration**.  
-
-🔹 **[Social Vulnerability & Environmental Justice Dashboard](https://github.com/TarunKumanduri1/Social-Vulnerability-Environmental-Justice-Survey-App)**  
-📌 **Key Insights**: Created an **interactive survey-based tool** to measure **environmental justice & social vulnerability** using **Dash & geospatial analytics**.  
-
-🔹 **[NREL Energy Data Processing](https://github.com/TarunKumanduri1/NREL_ENERGY_DATA_PROCESSING)**  
-📌 **Key Insights**: Built **high-performance data pipelines** to process **renewable energy datasets from NREL** using **PySpark & Pandas**.  
-
-🔹 **[Chesapeake Bay Nitrogen Loss Dashboard](https://github.com/TarunKumanduri1/Chesapeake-Bay-Nitrogen-Loss-Dashboard)**  
-📌 **Key Insights**: Designed a **real-time dashboard** tracking **agricultural nitrogen loss trends**, supporting **USDA 2030 and 2050 goals**.  
+Earlier in my career, I served as District Data Coordinator at the Inqui-Lab Foundation, a UNICEF and Government of Telangana initiative.
 
 ---
 
-## 📖 Research Publications & Conferences  
+## What I Work On
 
-- 📄 *Urban Giants Under Threat: Climate Vulnerabilities & Adaptive Strategies in Megacities* – **AGU Conference 2024**  
-- 📑 *A Systems Approach to Understanding Nitrogen Loss* – **CESUN 2025 Accepted Paper**  
-- 🤖 *Design & Deployment of a Smart Chatbot using Emerging Technologies*  
-
----
-
-## 🏛️ Community & Leadership  
-
-- **Finance Director, GW Desis Student Organization** – Managing finances for a **350+ member Indian graduate student community**  
-- **Digital Marketing Director, Google Developer Student Club GWU** – Organized **tech events for 150+ students**  
-- **Volunteer, The Art of Living Foundation** – Led mindfulness workshops at **USC, GWU, Babson, IIT Hyderabad, NIFT Hyderabad**  
+| Area | Focus |
+|---|---|
+| 🤖 **LLM Systems & Auditing** | Production LLM auditing pipelines, agentic RAG, hybrid retrieval (BM25 + dense embeddings) |
+| 📊 **Applied ML & NLP** | Large-scale text pipelines (670K+ documents), classification, causal inference |
+| 🌍 **Politics, Climate, Energy & Sustainability** | Nutrient supply-chain modeling, renewable energy ETL, environmental data systems |
+| 🏗️ **Data Engineering** | ETL pipelines at scale (R, Python, Spark), dashboards, graph analytics (Neo4j) |
 
 ---
 
-## 📢 Let’s Connect!  
+## Featured Projects
 
-🔗 **LinkedIn**: [linkedin.com/in/tarunkumanduri](https://linkedin.com/in/tarunkumanduri)  
-📧 **Email**: [tarun.kumanduri99@gmail.com](mailto:tarun.kumanduri99@gmail.com)  
-📂 **GitHub**: [github.com/TarunKumanduri1](https://github.com/TarunKumanduri1)  
+**[Hansard Intelligence](https://github.com/tarunkumanduri1)** — Agentic RAG system over UK Parliamentary speeches, combining BM25 and Gemini dense embeddings with LangChain and Chroma. Built as a production-grade AI engineering portfolio piece extending prior Parliamentary NLP research.
+
+**UK Parliamentary NLP Pipeline** (FewsLab, NSF-funded) — Processed 670,000+ Parliamentary speeches using BERT and Hugging Face, cutting manual review effort by 80%. Foundation for two publications (Robertson et al. 2025; Kollar et al., under review).
+
+**Nitrogen/Phosphorus Supply Chain Model** (FewsLab, USDA-funded) — Python-based nutrient flow model for the Chesapeake Bay region, supporting an $8.97M restoration program.
+
+**NREL Energy ETL Pipeline** (FewsLab, NSF-funded) — R-based pipeline processing 66,000+ files across 11,000+ renewable energy sites.
+
+**Multimodal Misinformation Detection** — Combined ResNet-18, CLIP, BLIP, and BERT to reach 95% classification accuracy across text and image modalities.
+
+**Vision Zero NYC Causal Inference** — Difference-in-differences analysis on 2M+ traffic crash records; presented as a poster at AGU 2024.
+
+**SEC Filings Graph Analytics** — Graph-based analysis of 10,000+ SEC filings and 1,500+ executives using Neo4j and PySpark.
+
+**NYISO Electricity Market Forecasting** — LSTM and gradient-boosted tree models (TensorFlow/Keras) for electricity price and demand forecasting, with K-means clustering for grid pattern analysis.
+
+**[Scene-Speak](https://github.com/tarunkumanduri1)** — Built at Hoya Hacks 2026 using the Gemini API.
+
+**[My Own Medic](https://github.com/tarunkumanduri1)** — Built at George Hacks 2025.
+
+> More projects and details: [github.com/tarunkumanduri1](https://github.com/tarunkumanduri1)
 
 ---
+
+## Publications
+
+- Robertson et al. (2025)
+- Kollar et al. (under review)
+- Published dataset on Zenodo: data centers' effect on climate-related concerns in the USA ([doi:10.5281/zenodo.17372375](https://doi.org/10.5281/zenodo.17372375))
+
+---
+
+## Tech Stack
+
+**Languages:** Python, R, SQL
+**ML/NLP:** PyTorch, TensorFlow/Keras, Hugging Face, scikit-learn, LangChain
+**Data Engineering:** PySpark, Pandas, Airflow-style ETL, FastAPI, Celery, Redis, PostgreSQL/TimescaleDB
+**Visualization:** Dash, R Shiny, Plotly
+**Other:** Neo4j, Docker, Git
+
+---
+
+## Let's Connect
+
+📧 [tarun.kumanduri99@gmail.com](mailto:tarun.kumanduri99@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tarun-kumanduri)
+🌐 [tarunkumanduri.dev](https://tarunkumanduri.dev)
+💻 [github.com/tarunkumanduri1](https://github.com/tarunkumanduri1)
