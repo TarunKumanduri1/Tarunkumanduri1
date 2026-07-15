@@ -39,7 +39,7 @@ Earlier in my career, I served as District Data Coordinator at the Inqui-Lab Fou
 
 **UK Parliamentary NLP Pipeline** (FewsLab, NSF-funded) — Processed 670,000+ Parliamentary speeches using BERT and Hugging Face, cutting manual review effort by 80%. Foundation for two publications (Robertson et al. 2025; Kollar et al., under review).
 
-**Nitrogen/Phosphorus Supply Chain Model** (FewsLab, USDA-funded) — Python-based nutrient flow model for the Chesapeake Bay region, supporting an $8.97M restoration program.
+**Nitrogen Loss Supply Chain Model** (FewsLab, USDA-funded) — Python-based nutrient flow model for the Chesapeake Bay region, supporting an $8.97M restoration program.
 
 **NREL Energy ETL Pipeline** (FewsLab, NSF-funded) — R-based pipeline processing 66,000+ files across 11,000+ renewable energy sites.
 
