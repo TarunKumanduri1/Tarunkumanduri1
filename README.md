@@ -45,7 +45,7 @@ Earlier in my career, I served as District Data Coordinator at the Inqui-Lab Fou
 
 **Multimodal Misinformation Detection** — Combined ResNet-18, CLIP, BLIP, and BERT to reach 95% classification accuracy across text and image modalities.
 
-**Vision Zero NYC Causal Inference** — Difference-in-differences analysis on 2M+ traffic crash records; presented as a poster at AGU 2024.
+**Vision Zero NYC Causal Inference** — Difference-in-differences analysis on 2M+ traffic crash records.
 
 **SEC Filings Graph Analytics** — Graph-based analysis of 10,000+ SEC filings and 1,500+ executives using Neo4j and PySpark.
 
